@@ -67,7 +67,7 @@ let kCircleHeightBackground: CGFloat = 62.0
 // The Main Class
 public class SCLAlertView: UIViewController {
     let kDefaultShadowOpacity: CGFloat = 0.7
-    let kCircleTopPosition: CGFloat = -12.0
+    let kCircleTopPosition: CGFloat = -40.0
     let kCircleBackgroundTopPosition: CGFloat = -15.0
     let kCircleHeight: CGFloat = 56.0
     let kCircleIconHeight: CGFloat = 20.0
